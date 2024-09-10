@@ -79,7 +79,7 @@
 | <center>[신수빈](https://github.com/ongsim0629)</center>     |2.5| | | | | | | | | | | | | | | |
 | <center>[이수진](https://github.com/asyncwaiter)</center>        |4| | | | | | | | | | | | | | | |
 | <center>[최수빈](https://github.com/lightsaber29)</center>      |3.2| | | | | | | | | | | |  | | | |
-|     <center>거북이</center>                                    | 2.5| | | | | | | | | |  | | | | | |
+|     <center>거북이🐢</center>                                    |3.1| | | | | | | | | |  | | | | | |
 
 <br>
 
