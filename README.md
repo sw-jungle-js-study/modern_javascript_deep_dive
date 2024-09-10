@@ -35,7 +35,7 @@
   <tr>
     <td align="center"><a href="https://github.com/ozll-zinni"><b>김예진</b></a></td>
     <td align="center"><a href="https://github.com/hyeda"><b>김혜다</b></a></td>
-    <td align="center"><a href="https://github.com/whirae">김휘래<b></b></a></td>
+    <td align="center"><a href="https://github.com/whirae"><b>김휘래</b></a></td>
     <td align="center"><a href="https://github.com/ongsim0629"><b>신수빈</b></a></td>
     <td align="center"><a href="https://github.com/asyncwaiter"><b>이수진</b></a></td>
     <td align="center"><a href="https://github.com/lightsaber29"><b>최수빈</b></a></td>
