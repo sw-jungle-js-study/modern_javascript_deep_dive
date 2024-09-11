@@ -73,12 +73,12 @@
 
 | 　　\　Day<br>이름　\  |1 | 2|3|4| 5|                                        6 | 7|8|9 |10| 11| 12~13|14|15|16|17~18|
 | :- | :-: | :-: | :-:| :-:| :-:| :-: | :-: | :-: |  :-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| <center>[김예진🐰](https://github.com/ozll-zinni)</center>        |4.1| | | | | | | | | | | | | | | |
+| <center>[김예진🐰](https://github.com/ozll-zinni)</center>        |4.1|5.5| | | | | | | | | | | | | | |
 | <center>[김혜다🐿️](https://github.com/hyeda)</center>       |3.1| | | | | | | | | | | | | | | |
-| <center>[성시경🙅‍♂️](https://github.com/whirae)</center>   |3.4| | | | | | | | | | | | | | | |
-| <center>[신수빈🐢](https://github.com/ongsim0629)</center>     |4| | | | | | | | | | | | | | | |
-| <center>[이수진🐥](https://github.com/asyncwaiter)</center>        |4| | | | | | | | | | | | | | | |
-| <center>[최수빈🐧](https://github.com/lightsaber29)</center>      |3.2| | | | | | | | | | | |  | | | |
+| <center>[성시경🙅‍♂️](https://github.com/whirae)</center>   |3.4|5| | | | | | | | | | | | | | |
+| <center>[신수빈🐢](https://github.com/ongsim0629)</center>     |4|5| | | | | | | | | | | | | | |
+| <center>[이수진🐥](https://github.com/asyncwaiter)</center>        |4|6| | | | | | | | | | | | | | |
+| <center>[최수빈🐧](https://github.com/lightsaber29)</center>      |3.2|4.3| | | | | | | | | | |  | | | |
 |     <center>거북이🐢</center>                                    |3.1| | | | | | | | | |  | | | | | |
 
 <br>
