@@ -85,7 +85,7 @@
 | <center>[김혜다🐿️](https://github.com/hyeda)</center>       |3.1| |3.2|3| | | | | | | | | | | | |
 | <center>[성시경🙅‍♂️](https://github.com/whirae)</center>   |3.4|5|6|9.2| | | | | | | | | | | | |
 | <center>[신수빈🐢](https://github.com/ongsim0629)</center>     |4|5|7.2|8.3| | | | | | | | | | | | |
-| <center>[이수진🐥](https://github.com/asyncwaiter)</center>        |4|6|9|🏖️| | | | | | | | | | | | |
+| <center>[이수진🐥](https://github.com/asyncwaiter)</center>        |4|6|9|11| | | | | | | | | | | | |
 | <center>[최수빈🐧](https://github.com/lightsaber29)</center>      |3.2|4.3|7.3|9| | | | | | | | |  | | | |
 |     <center>거북이🐢</center>                                    |3.1|헤다|다헤|혜다| | | | | | |  | | | | | |
 
