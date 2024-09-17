@@ -14,7 +14,7 @@ A. (1) 비동기
     
 
 ### Q 2.  크롬 브라우저에서 개발자 도구를 켜려고 한다. 단축키가 생각이 안나는 혜다에게 도움을 줘야한다. 참고로 혜다의 노트북에 F12키가 빠져있다.  참고로 혜다는 윈도우다.
-
+<details>
 <summary>A : 단축키를 쓰시오.</summary>
 <div markdown="1">
 A.  Ctrl + Shift + I    
@@ -22,6 +22,7 @@ A.  Ctrl + Shift + I
 </details>
 
 ### Q 3.  사람은 계산과 기억을 모두 뇌로 하지만, 컴퓨터는 계산하는 뇌와, 데이터를 기억하는 뇌가 따로 있다. 각각을 적으시오.
+<details>
 <summary>A 계산하는 뇌 :     , 기억하는 뇌 :</summary>
 <div markdown="1">
 A. 계산하는 뇌 :  CPU   , 기억하는 뇌 :  메모리  
@@ -29,6 +30,7 @@ A. 계산하는 뇌 :  CPU   , 기억하는 뇌 :  메모리
 </details>
     
 ### Q 4.  변수는 기억하고 싶은 하나의 값을 저장하기 위해 대입할 수 있는 ‘문자’ 자체를 의미한다.
+<details>
 <summary> A: O / X  </summary>
 <div markdown="1">
 A. X : 변수는 기억하고 싶은 값을 메모리에 저장하고, 저장된 값을 읽어 들여 재 사용하기 위해 확보한 메모리공간 자체 또는 그 메모리 공간을 식별하기 위해 붙인 이름을 말한다. 즉 값의 위치를 가리키는 상징적인 이름이다.
@@ -37,6 +39,7 @@ A. X : 변수는 기억하고 싶은 값을 메모리에 저장하고, 저장된
     
 
 ### Q 5.  혜다는 변수를 선언 했다. 초기화를 안해줬더니 쓰레기 값이 들어있었다!!
+<details>
 <summary> A: O / X  </summary>
 <div markdown="1">
 A. X : 자바스크립트는 암묵적으로 undefined라는 값이 할당되어 초기화 된다.
@@ -53,6 +56,7 @@ var hyeda;
 
 console.log(hyeda);
 ```
+<details>
 <summary> A: O / X  </summary>
 <div markdown="1">
 A. X : 첫번째 출력 undefined, 두번째 출력 cute
