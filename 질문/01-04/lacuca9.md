@@ -41,6 +41,7 @@ var person = {
 console.log(person.name); // ??
 
 console.log(person[name]); // ??
+</summary>
 
 <div markdown="1">
 A. Lee, ReferenceError
