@@ -31,11 +31,17 @@ A. -변수가 null 또는 undefined가 아닌지 확인하고 프로퍼티를 �
 <details>
 <summary>Q5. 
 < 다음 출력의 결과를 쓰시오 >
+   
 var person = {
+
     name: 'Lee'
+    
 };
+
 console.log(person.name); // ??
+
 console.log(person[name]); // ??
+
 <div markdown="1">
 A. Lee, ReferenceError
 </div>
