@@ -92,10 +92,13 @@ A. - 스코프가 계층적으로 연결된 것.
 <summary>Q10. 함수를 사용하는 이유를 아는대로 설명하시</summary>
 <div markdown="1">
 A. 코드의 재사용을 위해
+   
 유지보수의 편의성을 높임
+
 실수를 줄여 코드의 신뢰성을 높임
+
 코드의 가독성을 향상
-출처: https://lacuca9.tistory.com/entry/12-함수 [걍하믄댐:티스토리]
+
 </div>
 </details>
 
