@@ -251,13 +251,13 @@ A.
     
     var var1 = 1;  //line1
     if (true) {
-        var var2 = 2;
+        var var2 = 2; //line3
     }
     
     function foo() { //line6
-        var var3 = 3;
+        var var3 = 3; //line7
         function bar() {
-            var var4 = 4;
+            var var4 = 4; //line9
         }
     } //line 11
     
